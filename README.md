@@ -20,7 +20,7 @@ AI coding agents don't notify you when they finish or need permission. You tab a
 
 Abathur, Alarak, and Stetmann — English + Chinese voice lines for Claude Code. Preview made with [Remotion](https://www.remotion.dev/).
 
-<video src="docs/public/sc2-coop-preview.mp4" width="600"></video>
+https://github.com/AlexZhangji/peon-ping/releases/download/sc2-preview/sc2-coop-preview.mp4
 
 </div>
 
