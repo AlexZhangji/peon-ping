@@ -16,6 +16,12 @@ AI coding agents don't notify you when they finish or need permission. You tab a
 
 <video src="docs/public/demo-avatar.mp4" autoplay loop muted playsinline width="400"></video>
 
+### SC2 Co-op Commander Packs
+
+Abathur, Alarak, and Stetmann — English + Chinese voice lines for Claude Code. Preview made with [Remotion](https://www.remotion.dev/).
+
+<video src="docs/public/sc2-coop-preview.mp4" width="600"></video>
+
 </div>
 
 ---
